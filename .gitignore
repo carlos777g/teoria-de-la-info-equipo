@@ -1,0 +1,11 @@
+# Ignorar archivos de audio (sin comprimir)
+*.wav
+
+# Archivos temporales de Matlab
+*.asv
+
+# Ignorar cachés y archivos compilados de Python
+__pycache__/
+*.py[cod]
+
+# Otros archivos que no deseas versionar
