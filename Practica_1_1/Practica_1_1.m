@@ -19,7 +19,7 @@ clc;
 % disp(info.BitsPerSample);
 %% Inicio de práctica 1.1
 
-% Lista de archivos y sus géneros (puedes ajustarlos)
+% Lista de archivos y sus géneros
 audioFiles = {'Come_As_You_Are.wav', 'Nocturne_in_C.wav', 'WILDFLOWER.wav'};
 genres = {'Rock', 'Clásica', 'Pop'};
 
@@ -96,7 +96,7 @@ for i = 1:length(audioFiles)
     xlabel('Nivel')
     ylabel('Información (bits)')
     title(sprintf('Top 7 niveles - %s', genres{i}))
-    if(strcmp(filename, 'Come_As_You_Are.wav'))
+    if(strcmp(filename, 'Come_As_You_Are.wav')) % Para ajustar el grafico de rock top
         xlim([32760 32773])
     end
     grid on;
