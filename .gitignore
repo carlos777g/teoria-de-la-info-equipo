@@ -9,3 +9,5 @@ __pycache__/
 *.py[cod]
 
 # Otros archivos que no deseas versionar
+# tablas de datos
+*.csv
