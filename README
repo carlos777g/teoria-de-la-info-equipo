@@ -1,8 +1,7 @@
-Este repositorio es para guardar las prácticas de mi materia "Teoría de la información"
+Este repositorio es para guardar las prácticas de mi materia "Teoría de la información".
 ===========================================================================================
-Utilizamos MATLAB pero se acabó la licencia de la escuela, así que seguimos con Python
-No usamos entornos virtuales para librerías de pyhton, así que deben instalarse 
-las librerías con el comando: "py -m pip install [librería]"
+Utilizamos MATLAB pero se acabó la licencia de la escuela, así que seguimos con Python.
+No usamos entornos virtuales para librerías de pyhton, así que deben instalarse las librerías con el comando: "py -m pip install [librería]".
 ===========================================================================================
 Explicación de prácticas:
 
