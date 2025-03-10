@@ -1,6 +1,9 @@
 # Ignorar archivos de audio (sin comprimir)
 *.wav
 
+# Ignorar archivos de imagen (sin comprimir)
+*.bmp
+
 # Archivos temporales de Matlab
 *.asv
 
@@ -8,6 +11,6 @@
 __pycache__/
 *.py[cod]
 
-# Otros archivos que no deseas versionar
+# Otros archivos que no deseamos versionar
 # tablas de datos
 *.csv
