@@ -1,0 +1,13 @@
+Este repositorio es para guardar las prácticas de mi materia "Teoría de la información"
+===========================================================================================
+Utilizamos MATLAB pero se acabó la licencia de la escuela, así que seguimos con Python
+No usamos entornos virtuales para librerías de pyhton, así que deben instalarse 
+las librerías con el comando: "py -m pip install [librería]"
+===========================================================================================
+Explicación de prácticas:
+
+Práctica 1_1: Análisis de cantidad de información y entropía sobre audios .wav
+Práctica 1_2: Análisis de fuentes con memoria sobre textos en diferentes idiomas
+Práctica 1_3: Análisis de imágenes RGB a B/N para sacar la entropía sin y con fuente con memoria a n=1, además de las probabilidades de aparición de pixeles iguales
+===========================================================================================
+
